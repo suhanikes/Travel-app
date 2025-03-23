@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+/*import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -22,4 +22,24 @@ function App() {
   );
 }
 
-export default App;
+export default App;*/
+import React from 'react'
+import './App.css'
+import './Components/Navbar/navbar.scss'
+import Home from './Components/Home/Home'
+import Main from './Components/Main/Main'
+import Navbar from './Components/Navbar/Navbar'
+import Footer from './Components/Footer/Footer'
+const App = () => {
+  return (
+   <> <Navbar />
+<Home />
+<Main />
+< Footer />
+</>
+  
+   
+  )
+}
+
+export default App
