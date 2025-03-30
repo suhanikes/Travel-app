@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Travel-app/static/css/main.223d36cd.css",
-    "main.js": "/Travel-app/static/js/main.f6e115b8.js",
+    "main.js": "/Travel-app/static/js/main.60fe57e7.js",
     "static/media/video.mp4": "/Travel-app/static/media/video.01f60fc1bffeff28980c.mp4",
     "static/media/konark.jpg": "/Travel-app/static/media/konark.e1bdc5669841a7b54a4c.jpg",
     "static/media/memorial.jpg": "/Travel-app/static/media/memorial.c6496597887d2172b9c5.jpg",
@@ -14,10 +14,10 @@
     "static/media/beach.jpg": "/Travel-app/static/media/beach.112ed641293617670cf0.jpg",
     "index.html": "/Travel-app/index.html",
     "main.223d36cd.css.map": "/Travel-app/static/css/main.223d36cd.css.map",
-    "main.f6e115b8.js.map": "/Travel-app/static/js/main.f6e115b8.js.map"
+    "main.60fe57e7.js.map": "/Travel-app/static/js/main.60fe57e7.js.map"
   },
   "entrypoints": [
     "static/css/main.223d36cd.css",
-    "static/js/main.f6e115b8.js"
+    "static/js/main.60fe57e7.js"
   ]
 }
