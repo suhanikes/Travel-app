@@ -18,7 +18,7 @@ const Navbar = () => {
 <header className="header flex">
   <div className="logoDiv">
     <a href="#" className="logo flex">
-      <h1><MdOutlineTravelExplore className="icon"/>Travel</h1>
+      <h1><MdOutlineTravelExplore className="icon"/>TripGo</h1>
     </a>
   </div>
   {}

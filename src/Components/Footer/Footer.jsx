@@ -39,7 +39,7 @@ const Footer = () => {
   <div className="logoDiv">
     <a href="#" className='logo flex'>
     <MdOutlineTravelExplore className="icon"/>
-      Travel
+      TripGo
     </a>
   </div>
   <div data-aos="fade-up" className="footerParagraph">
